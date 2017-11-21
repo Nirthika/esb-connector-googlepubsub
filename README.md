@@ -10,3 +10,5 @@ mvn clean install
 You can create a third party connector and publish in WSO2 Connector Store.
 
 https://docs.wso2.com/display/ESBCONNECTORS/Creating+and+Publishing+a+Third+Party+Connector
+
+**[Google Pub/Sub EI connector documentation](docs/pubSub.md)**
